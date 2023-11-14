@@ -6349,5 +6349,5 @@ include::{snippets}/{user}/check_notvalid_test/response-body.adoc[]
 <br/>
 
 ## **3. 카카오 클라우드 배포**
-> 배포 url : https://user-app.krampoline.com/k9ce14cd5c016a
+> 배포 url : ~~https://user-app.krampoline.com/k9ce14cd5c016a~~
 
