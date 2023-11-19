@@ -1,5 +1,13 @@
 # step2-BE-kakao-shop
 카카오 테크 캠퍼스 2단계 카카오 쇼핑하기 백엔드 클론 프로젝트 레포지토리입니다.
+# PR List
+[1주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/39) <br/>
+[2주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/138) <br/>
+[3주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/175) <br/>
+[4주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/258) <br/>
+[5주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/327) <br/>
+[6주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/373) <br/>
+
 
 # 1주차
 
