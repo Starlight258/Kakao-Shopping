@@ -8,6 +8,31 @@
 [5주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/327) <br/>
 [6주차 PR](https://github.com/Kakao-tech-campus-BE/step2-BE-kakao-shop/pull/373) <br/>
 
+# 1~6주차 구현 기능
+### 회원 가입 / 로그인
+
+- 회원가입 기능
+- 로그인 기능
+- 이메일 중복 확인 기능
+
+### 상품 목록 조회
+
+- 전체 상품 목록 조회
+- 개별 상품 목록 조회
+
+### 장바구니
+
+- 장바구니 조회 기능
+- 장바구니 담기 기능
+
+### 주문
+
+- 장바구니 수정 기능
+- 결제하기 (주문하기)
+- 결제한 주문 결과 확인 기능
+
+<br/>
+<br/>
 
 # 1주차
 
